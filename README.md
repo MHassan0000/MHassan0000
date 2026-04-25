@@ -48,7 +48,7 @@ Currently exploring advanced AI integrations, automation ecosystems, and buildin
     </td>
     <td width="50%" valign="top">
       <h3>Tools & Workflow</h3>
-      <p>Git, GitHub, Postman, Vercel, Docker, VS Code, Deployment Pipelines, Agile Development</p>
+      <p>Git, GitHub, Postman, Vercel, Docker, VS Code, Azure, Streamlit, Modal, Deployment Pipelines, Agile Development</p>
     </td>
   </tr>
 </table>
@@ -90,7 +90,7 @@ Currently exploring advanced AI integrations, automation ecosystems, and buildin
 ### Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,figma,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,figma,postman,vscode,azure" />
   <br/><br/>
   <img src="https://img.shields.io/badge/Claude-0d1117?style=for-the-badge&logo=claude&logoColor=D97757" />
   <img src="https://img.shields.io/badge/Stripe-0d1117?style=for-the-badge&logo=stripe&logoColor=635BFF" />
@@ -98,6 +98,8 @@ Currently exploring advanced AI integrations, automation ecosystems, and buildin
   <img src="https://img.shields.io/badge/Zapier-0d1117?style=for-the-badge&logo=zapier&logoColor=FF4A00" />
   <img src="https://img.shields.io/badge/n8n-0d1117?style=for-the-badge&logo=n8n&logoColor=EA4B71" />
   <img src="https://img.shields.io/badge/OpenAI-0d1117?style=for-the-badge&logo=openai&logoColor=00A67E" />
+  <img src="https://img.shields.io/badge/Streamlit-0d1117?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" />
+  <img src="https://img.shields.io/badge/Modal-0d1117?style=for-the-badge&logo=modal&logoColor=A855F7" />
 </p>
 
 ---
